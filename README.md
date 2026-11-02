@@ -6,7 +6,7 @@ Perfil de evaluación de un SaaS de apoyo a la interpretación de ECG pediátric
 
 ## Estado
 
-Informe Word en revisión con 30 comentarios del grupo (ver `docs/comentarios-revision.md`). Verificación punto por punto contra la guía: **`docs/verificacion-cumplimiento.md`** — incluye hallazgos numéricos (CAPM, VAN, TIR, consistencia ingresos↔instituciones).
+Informe Word en revisión con 30 comentarios del grupo (ver `docs/comentarios-revision.md`). Verificación punto por punto contra la guía: **`docs/verificacion-cumplimiento.md`** — incluye hallazgos numéricos (CAPM, VAN, TIR, consistencia ingresos↔instituciones). Plan de trabajo con dueños: **`docs/todos.md`**.
 
 ## Entregables CANVAS (los 4 exigidos)
 
