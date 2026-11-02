@@ -45,12 +45,12 @@ Proyecto ficticio de nivel perfil: nada se "contrata" ni se "cotiza" — todo lo
 
 ## P2 — Forma y entrega
 
-- [ ] 30. Bibliografía APA desde `links.txt` (BCN, Insight Partners, BRI, MINSAL, Damodaran, Leone et al., Philips, GE, Atrys, Cardiowapp) (#28)
+- [x] 30. Bibliografía APA desde `links.txt` → `anexos/fuentes/bibliografia-por-capitulo.md` *(8 fuentes mapeadas por capítulo 3/4/5; faltan datos de Leone et al. y fila/fecha de Damodaran)*
 - [ ] 31. Portada: número de grupo e integrantes
 - [ ] 32. TOC: actualizar campos antes de exportar a PDF
 - [ ] 33. Enviar preguntas al profe ya: detalle del cap. 2 (#2), financiamiento (#12), ISP sí/no
 - [ ] 34. PowerPoint + elevator pitch de 60 s (uno por integrante)
-- [ ] 35. Anexos: mover `links.txt` a `anexos/fuentes/`, agregar capturas, cálculo AWS, referencias de arriendo
+- [ ] 35. Anexos *(iniciado: `anexos/fuentes/bibliografia-por-capitulo.md`)* — agregar capturas PDF de las fuentes, cálculo AWS, referencias de arriendo
 - [ ] 36. Ensayo de defensa: cada integrante domina todos los capítulos (80% de la nota es preguntas)
 
 ## Reparto sugerido (4 integrantes)

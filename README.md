@@ -15,7 +15,7 @@ Informe Word en revisión con 30 comentarios del grupo (ver `docs/comentarios-re
 | 1 | Informe Word/PDF (20 puntos de la guía) | ⚠️ En corrección | `PedioLink_Informe_PEP(1).docx` → copia final en `informe/` |
 | 2 | **Excel** con flujo de caja y evaluación económica | ✅ `PedioLink_Flujo_Caja.xlsx` (caso viable: VAN +323k, TIR 21,9%, horizonte 10 años; fórmulas vivas verificadas) — detalles y trazabilidad en `docs/excel-notas.md` | `excel/` |
 | 3 | PowerPoint de presentación | ❌ No existe | `presentacion/` |
-| 4 | Anexos con información soportante | ❌ Solo `links.txt` | `anexos/` |
+| 4 | Anexos con información soportante | ⚠️ Bibliografía APA por capítulo lista (`anexos/fuentes/bibliografia-por-capitulo.md`); faltan capturas y respaldos | `anexos/` |
 
 ## Estructura
 
