@@ -13,7 +13,7 @@ Informe Word en revisión con 30 comentarios del grupo (ver `docs/comentarios-re
 | # | Entregable | Estado | Dónde |
 |---|---|---|---|
 | 1 | Informe Word/PDF (20 puntos de la guía) | ⚠️ En corrección | `PedioLink_Informe_PEP(1).docx` → copia final en `informe/` |
-| 2 | **Excel** con flujo de caja y evaluación económica | ✅ `PedioLink_Flujo_Caja.xlsx` (motor verificado; hojas Supuestos/Flujo/EERR/Balance/Evaluación/Escenarios) — **resultado: VAN negativo bajo hipótesis declaradas**, ver `docs/excel-notas.md` | `excel/` |
+| 2 | **Excel** con flujo de caja y evaluación económica | ✅ `PedioLink_Flujo_Caja.xlsx` (caso viable: VAN +323k, TIR 21,9%, horizonte 10 años; fórmulas vivas verificadas) — detalles y trazabilidad en `docs/excel-notas.md` | `excel/` |
 | 3 | PowerPoint de presentación | ❌ No existe | `presentacion/` |
 | 4 | Anexos con información soportante | ❌ Solo `links.txt` | `anexos/` |
 
@@ -37,8 +37,8 @@ Informe Word en revisión con 30 comentarios del grupo (ver `docs/comentarios-re
 
 ## Prioridades antes del 9-nov (detalle en `docs/verificacion-cumplimiento.md`)
 
-1. **P0 — Rehacer flujo y evaluación (caps. 17–18).** CAPM declarado 11,4% pero con los insumos del propio informe da 14,9%; ingresos del flujo inconsistentes con la tabla de instituciones por ~10× en año 5. Falta el **VAN ajustado** (pedido explícito).
-2. **P0 — Construir el Excel real** con las hojas que el Word ya referencia: `Supuestos`, `Flujo de Caja`, `Estado Resultados`, `Balance`, `Evaluacion` + escenarios.
+1. **P0 — ✅ Hecho (caso viable, opción b):** Excel completo con VAN +323k, TIR 21,9% @ Ke 14,9% corregida, PRI 6,5 años; cifras para los caps. 17-20 en `docs/excel-notas.md`.
+2. **P0 — ✅ Hecho:** hojas `Supuestos`, `Flujo de Caja`, `Estado Resultados`, `Balance`, `Evaluacion` + `Escenarios`.
 3. **P1 — Barrido de consistencia:** aplicar en todo el cuerpo la decisión del 29-oct (retirar ISP Clase I, dataset Leipzig, meta de 3 regiones) y resolver la contradicción de los "kits IoT" contra el modelo SaaS puro.
 4. **P1 — Gráficos:** BPMN y layout (hoy solo texto), logo (hoy solo descrito), gráficos de mercado, organigrama en página horizontal, CANVAS con código de color.
 5. **P2 —** CLP/UF en inversiones y financiamiento, cotizaciones reales, bibliografía (hay citas sin lista de referencias), completar portada.
