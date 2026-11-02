@@ -4,14 +4,14 @@ Proyecto ficticio de nivel perfil: nada se "contrata" ni se "cotiza" — todo lo
 
 ## P0 — Modelo económico consistente (bloquea Excel + caps. 17–19)
 
-- [ ] 1. Hoja `Supuestos` como única fuente de verdad: instituciones activas por año, precio (2.200 USD/mes), implementación (8k), cupo/estudios, churn, mezcla de ingresos
-- [ ] 2. Derivar ingresos año a año desde esos supuestos (corrige el ×10 del año 5)
-- [ ] 3. Reconstruir flujo de caja 5 años (Tabla 6) con costos consistentes con cap. 12 (486k/año, no 444k)
-- [ ] 4. Corregir CAPM: Ke = 14,9% con los insumos actuales, o ajustar insumos y citar la fila exacta de Damodaran (sector + fecha de la tabla)
-- [ ] 5. Recalcular VAN normal **y VAN ajustado** (pedido explícito), TIR, PRI simple y descontado, con fórmulas visibles en el Excel
-- [ ] 6. Escenarios pesimista/normal/optimista recalculados desde la nueva base; corregir "captura año 1: 3%" para que calce con el SOM
-- [ ] 7. Estado de resultados y balance 3 años con fila de control (Activo = Pasivo + Patrimonio), consistentes con el flujo
-- [ ] 8. Armar el Excel real: `Supuestos`, `Flujo de Caja`, `Estado Resultados`, `Balance`, `Evaluacion`, `Escenarios` (mismos nombres que cita el Word)
+- [x] 1. Hoja `Supuestos` como única fuente de verdad: instituciones activas por año, precio (2.200 USD/mes), implementación (8k), cupo/estudios, churn, mezcla de ingresos
+- [x] 2. Derivar ingresos año a año desde esos supuestos (corrige el ×10 del año 5)
+- [x] 3. Reconstruir flujo de caja 5 años (Tabla 6) con costos consistentes con cap. 12 (486k/año, no 444k)
+- [x] 4. Corregir CAPM: Ke = 14,9% con los insumos actuales, o ajustar insumos y citar la fila exacta de Damodaran (sector + fecha de la tabla)
+- [x] 5. Recalcular VAN normal **y VAN ajustado** (pedido explícito), TIR, PRI simple y descontado, con fórmulas visibles en el Excel
+- [x] 6. Escenarios pesimista/normal/optimista recalculados desde la nueva base; corregir "captura año 1: 3%" para que calce con el SOM
+- [x] 7. Estado de resultados y balance 3 años con fila de control (Activo = Pasivo + Patrimonio), consistentes con el flujo
+- [x] 8. Armar el Excel real: `Supuestos`, `Flujo de Caja`, `Estado Resultados`, `Balance`, `Evaluacion`, `Escenarios` (mismos nombres que cita el Word)
 
 ## P1 — Consistencia narrativa (decisión del 29-oct en TODO el cuerpo)
 
@@ -21,7 +21,7 @@ Proyecto ficticio de nivel perfil: nada se "contrata" ni se "cotiza" — todo lo
 - [ ] 12. Kits IoT: eliminar de Gantt (actividad 5), bodega (caps. 7 y 15) y Ley REP (cap. 16) — el modelo declara "no incluye equipos"
 - [ ] 13. Alinear cap. 6 con el cliente declarado: quitar CESFAM/ISAPRE como canal año 1 o justificarlos; retirar "B2B2C probado" y toda precisión/utilidad presentada como demostrada
 - [ ] 14. Conclusión: eliminar o fundamentar "30 hospitales / 8.000 pacientes / un hospital por mes"; hacerla consistente con caps. 4–5
-- [ ] 15. SAM: fijar el conteo calificado (estimación declarada) para que SOM y escenarios sean proporcionales correctos
+- [x] 15. SAM: fijar el conteo calificado (estimación declarada) para que SOM y escenarios sean proporcionales correctos
 
 ## P1 — Gráficos y diagramas (la guía los exige; hoy solo texto)
 
@@ -32,14 +32,14 @@ Proyecto ficticio de nivel perfil: nada se "contrata" ni se "cotiza" — todo lo
 - [ ] 20. Gráficos de mercado: TAM-SAM-SOM y participación proyectada (#4)
 - [ ] 21. Organigrama en página apaisada legible (#20)
 - [ ] 22. Gantt: añadir especificidad (granularidad semanal, hitos) sobre la base actual (#9)
-- [ ] 23. Regenerar Figura 4 (flujo) con los números corregidos
+- [ ] 23. Regenerar Figura 4 (flujo) con los números corregidos *(datos listos en docs/excel-notas.md §4)*
 
 ## P1 — Supuestos con referencia de mercado (ficticio ⇒ explicitar, no "cotizar")
 
 - [ ] 24. Arriendo: referencia de mercado zona oriente (portal inmobiliario) citada; validar ≈0,53 UF/m² (#21, #22)
 - [ ] 25. Cloud: estimación con AWS Pricing Calculator, captura a anexos, respaldar USD/estudio (#16)
 - [ ] 26. Financiamiento: tasa vigente citada (BancoEstado), condiciones CORFO verificadas contra la convocatoria real; responder "por qué BancoEstado" con una condición concreta (#12, #15)
-- [ ] 27. Inversiones y financiamiento en CLP/UF con tipo de cambio y fecha declarados (#11, #14)
+- [ ] 27. Inversiones y financiamiento en CLP/UF con tipo de cambio y fecha declarados (#11, #14) *(fila CLP lista en hoja `Flujo de Caja`; falta en el Word)*
 - [ ] 28. Legal: fuente verificable para el registro de software (o reemplazar "Decreto Exento 25/2026"); explicitar Ley 21.719 y su entrada en vigencia (#18)
 - [ ] 29. Reescribir pasajes "muy IA" en financiamiento y legal: decisiones directas, primera persona (#13, #17)
 

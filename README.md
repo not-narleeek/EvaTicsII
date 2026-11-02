@@ -13,7 +13,7 @@ Informe Word en revisión con 30 comentarios del grupo (ver `docs/comentarios-re
 | # | Entregable | Estado | Dónde |
 |---|---|---|---|
 | 1 | Informe Word/PDF (20 puntos de la guía) | ⚠️ En corrección | `PedioLink_Informe_PEP(1).docx` → copia final en `informe/` |
-| 2 | **Excel** con flujo de caja y evaluación económica | ❌ **No existe** (el Word lo cita 5 veces) | `excel/` |
+| 2 | **Excel** con flujo de caja y evaluación económica | ✅ `PedioLink_Flujo_Caja.xlsx` (motor verificado; hojas Supuestos/Flujo/EERR/Balance/Evaluación/Escenarios) — **resultado: VAN negativo bajo hipótesis declaradas**, ver `docs/excel-notas.md` | `excel/` |
 | 3 | PowerPoint de presentación | ❌ No existe | `presentacion/` |
 | 4 | Anexos con información soportante | ❌ Solo `links.txt` | `anexos/` |
 
