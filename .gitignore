@@ -1,0 +1,7 @@
+~$*
+*.tmp
+.DS_Store
+unpacked/
+page-*.jpg
+*.pdf.backup
+__pycache__/
