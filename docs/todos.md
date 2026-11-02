@@ -25,14 +25,14 @@ Proyecto ficticio de nivel perfil: nada se "contrata" ni se "cotiza" — todo lo
 
 ## P1 — Gráficos y diagramas (la guía los exige; hoy solo texto)
 
-- [ ] 16. CANVAS con código de color Propuesta de Valor ↔ Segmentos (#3)
-- [ ] 17. Diagrama BPMN de las 5 etapas descritas (cap. 7)
-- [ ] 18. Layout de oficina/bodega (cap. 7)
-- [ ] 19. Logo: imagen real del isotipo descrito (cap. 6) (#5)
-- [ ] 20. Gráficos de mercado: TAM-SAM-SOM y participación proyectada (#4)
-- [ ] 21. Organigrama en página apaisada legible (#20)
-- [ ] 22. Gantt: añadir especificidad (granularidad semanal, hitos) sobre la base actual (#9)
-- [ ] 23. Regenerar Figura 4 (flujo) con los números corregidos *(datos listos en docs/excel-notas.md §4)*
+- [x] 16. CANVAS con código de color Propuesta de Valor ↔ Segmentos (#3)
+- [x] 17. Diagrama BPMN de las 5 etapas descritas (cap. 7)
+- [x] 18. Layout de oficina/bodega (cap. 7)
+- [x] 19. Logo: imagen real del isotipo descrito (cap. 6) (#5)
+- [x] 20. Gráficos de mercado: TAM-SAM-SOM y participación proyectada (#4)
+- [x] 21. Organigrama en página apaisada legible (#20)
+- [x] 22. Gantt: añadir especificidad (granularidad semanal, hitos) sobre la base actual (#9)
+- [x] 23. Figura 4 regenerada: `informe/graficos/fig4_flujo.png` (insertar en el Word)
 
 ## P1 — Supuestos con referencia de mercado (ficticio ⇒ explicitar, no "cotizar")
 
