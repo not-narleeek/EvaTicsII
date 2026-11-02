@@ -9,6 +9,7 @@ Mapeo según Donovan (WhatsApp, 02-nov): *"El primero si no me equivoco en la 3,
 | **3 — Modelo de Negocios (CANVAS)** | 1. BCN Reporte Regional 2025 | 227 hospitales y 155 clínicas en Chile; 45 y 83 en la RM (sección 4.4) |
 | **4 — Estimación de Mercado** | 2. The Insight Partners · 3. Business Research Insights · 4. MINSAL ENS 2030 | CAGR salud digital 25,7% (2025-2031); mercado IA-ECG USD 1.240M→3.690M, CAGR 13,7%; modelo de salud digital del MINSAL |
 | **5 — Situación de Mercado** | 5. Philips · 6. GE HealthCare · 7. Atrys · 8. Cardiowapp | Competidores: DXL en PageWriter TC35; Marquette 12SL en MAC 5; telecardiología remota; gestión de ECG |
+| **6 (FODA), 8 (solución técnica), 20 (conclusión)** | 9. Tan et al. 2025 — dataset **ZZU** | Entrenamiento/validación del clasificador: base 100% pediátrica y pública (sustituye a Leipzig, decisión 02-nov; responde a comentarios #7 y #29) |
 
 ## Referencias en formato APA 7
 
@@ -34,11 +35,11 @@ Mapeo según Donovan (WhatsApp, 02-nov): *"El primero si no me equivoco en la 3,
 
 > Cardiowapp. (s. f.). *Plataforma*. https://www.cardiowapp.cl/plataforma
 
-**Usadas en otros capítulos (ya con enlace, faltan datos)**
+**Usadas en otros capítulos**
 
 > Damodaran, A. (2025). *Betas by sector (US)*. NYU Stern School of Business. https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/Betas.html — **PENDING: citar fila exacta del sector y fecha de la tabla usada (cap. 18; la guía da este link)**
 
-> Leone et al. (2024). [dataset ECG pediátrico Leipzig Heart Center] — **PENDING: completar título, revista y URL (se cita en caps. 8 y 20 del informe)**
+> Tan, J., Fan, H., Luo, J., Zhou, Y., Wang, N., Wang, X., Liu, G., Liu, C., & Wang, Z. (2025). A pediatric ECG database with disease diagnosis covering 11643 children. *Scientific Data, 12*, 867. https://doi.org/10.1038/s41597-025-05225-z — **dataset ZZU (reemplaza a Leipzig, decide 02-nov): 11.643 niños del Primer Hospital Afiliado de la Universidad de Zhengzhou, 2018-2024; 14.190 registros ECG, 12.334 de 12 derivaciones, con diagnóstico por enfermedad. Datos en Figshare: https://doi.org/10.6084/m9.figshare.27078763**
 
 ## Cómo citar en el texto
 
@@ -46,10 +47,10 @@ Mapeo según Donovan (WhatsApp, 02-nov): *"El primero si no me equivoco en la 3,
 - Cap. 4: "(The Insight Partners, 2025)", "(Business Research Insights, s. f.)", "(MINSAL, 2023)".
 - Cap. 5: describir a cada competidor con cita: "Philips incorpora el algoritmo DXL en la línea PageWriter (Philips, s. f.)".
 - Cap. 18: "(Damodaran, 2025)" con fila y fecha.
+- Caps. 6/8/20: "(Tan et al., 2025)" — el dataset ZZU sustituye a Leipzig en FODA, entrenamiento del pipeline y conclusión.
 
 ## Pendientes para cerrar la bibliografía
 
-1. Datos completos del paper de Leone et al. (2024) — los tiene quien eligió el dataset.
-2. Fila y fecha exactas de la beta en la tabla de Damodaran (captura → `anexos/fuentes/`).
-3. Capturas PDF de cada fuente (guardar en esta carpeta como respaldo del anexo).
-4. Si se citan PTB-XL/MIT-BIH (alternativas a Leipzig), agregar referencias de PhysioNet.
+1. Fila y fecha exactas de la beta en la tabla de Damodaran (captura → `anexos/fuentes/`).
+2. Capturas PDF de cada fuente (guardar en esta carpeta como respaldo del anexo).
+3. Retirar toda mención a "Leipzig Heart Center" / "Leone et al." en el Word (caps. 6, 8, 20) y reemplazar por ZZU: filtrar el texto por "Leipzig" y "Leone".

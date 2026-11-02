@@ -16,7 +16,7 @@ Proyecto ficticio de nivel perfil: nada se "contrata" ni se "cotiza" — todo lo
 ## P1 — Consistencia narrativa (decisión del 29-oct en TODO el cuerpo)
 
 - [ ] 9. ISP/Clase I: retirar de caps. 9 (Gantt), 10 (inversiones), 13 (legal), 19 (riesgos) **o** mantenerlo y justificarlo con fuente — decidir uno; si queda, conciliar M3-M6 vs. "≈6 meses"
-- [ ] 10. Leipzig: retirar de FODA (cap. 6), solución técnica (cap. 8) y conclusión (cap. 20); declarar la estrategia de datos: datasets públicos + sintético + convenio local como supuesto
+- [ ] 10. Leipzig → ZZU: reemplazar "Leipzig Heart Center"/"Leone et al." por el dataset ZZU (Tan et al., 2025, Scientific Data; cita completa en anexos/fuentes/bibliografia-por-capitulo.md) en FODA (cap. 6), solución técnica (cap. 8) y conclusión (cap. 20)
 - [ ] 11. Meta de 3 regiones (cap. 6: Valparaíso/Biobío) → reemplazar por criterios de expansión
 - [ ] 12. Kits IoT: eliminar de Gantt (actividad 5), bodega (caps. 7 y 15) y Ley REP (cap. 16) — el modelo declara "no incluye equipos"
 - [ ] 13. Alinear cap. 6 con el cliente declarado: quitar CESFAM/ISAPRE como canal año 1 o justificarlos; retirar "B2B2C probado" y toda precisión/utilidad presentada como demostrada

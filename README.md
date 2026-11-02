@@ -39,7 +39,7 @@ Informe Word en revisión con 30 comentarios del grupo (ver `docs/comentarios-re
 
 1. **P0 — ✅ Hecho (caso viable, opción b):** Excel completo con VAN +323k, TIR 21,9% @ Ke 14,9% corregida, PRI 6,5 años; cifras para los caps. 17-20 en `docs/excel-notas.md`.
 2. **P0 — ✅ Hecho:** hojas `Supuestos`, `Flujo de Caja`, `Estado Resultados`, `Balance`, `Evaluacion` + `Escenarios`.
-3. **P1 — Barrido de consistencia:** aplicar en todo el cuerpo la decisión del 29-oct (retirar ISP Clase I, dataset Leipzig, meta de 3 regiones) y resolver la contradicción de los "kits IoT" contra el modelo SaaS puro.
+3. **P1 — Barrido de consistencia:** aplicar en todo el cuerpo la decisión del 29-oct (retirar ISP Clase I, meta de 3 regiones) y del 02-nov (dataset ZZU reemplaza a Leipzig), y resolver la contradicción de los "kits IoT" contra el modelo SaaS puro.
 4. **P1 — Gráficos:** BPMN y layout (hoy solo texto), logo (hoy solo descrito), gráficos de mercado, organigrama en página horizontal, CANVAS con código de color.
 5. **P2 —** CLP/UF en inversiones y financiamiento, cotizaciones reales, bibliografía (hay citas sin lista de referencias), completar portada.
 

@@ -14,3 +14,6 @@ https://www.philips.cl/healthcare/product/860437/pagewriter-tc35-cardiograph
 https://www.gehealthcare.com.sg/en/products/diagnostic-ecg/resting-ecg/mac-5-resting-ecg
 https://atrys.cl/telecardiologia/
 https://www.cardiowapp.cl/plataforma
+# 9. Dataset ZZU (caps. 6/8/20 - reemplaza a Leipzig, decidido 02-nov)
+https://www.nature.com/articles/s41597-025-05225-z
+https://doi.org/10.6084/m9.figshare.27078763
