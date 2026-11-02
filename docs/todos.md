@@ -15,12 +15,12 @@ Proyecto ficticio de nivel perfil: nada se "contrata" ni se "cotiza" — todo lo
 
 ## P1 — Consistencia narrativa (decisión del 29-oct en TODO el cuerpo)
 
-- [ ] 9. ISP/Clase I: retirar de caps. 9 (Gantt), 10 (inversiones), 13 (legal), 19 (riesgos) **o** mantenerlo y justificarlo con fuente — decidir uno; si queda, conciliar M3-M6 vs. "≈6 meses"
-- [ ] 10. Leipzig → ZZU: reemplazar "Leipzig Heart Center"/"Leone et al." por el dataset ZZU (Tan et al., 2025, Scientific Data; cita completa en anexos/fuentes/bibliografia-por-capitulo.md) en FODA (cap. 6), solución técnica (cap. 8) y conclusión (cap. 20)
-- [ ] 11. Meta de 3 regiones (cap. 6: Valparaíso/Biobío) → reemplazar por criterios de expansión
-- [ ] 12. Kits IoT: eliminar de Gantt (actividad 5), bodega (caps. 7 y 15) y Ley REP (cap. 16) — el modelo declara "no incluye equipos"
-- [ ] 13. Alinear cap. 6 con el cliente declarado: quitar CESFAM/ISAPRE como canal año 1 o justificarlos; retirar "B2B2C probado" y toda precisión/utilidad presentada como demostrada
-- [ ] 14. Conclusión: eliminar o fundamentar "30 hospitales / 8.000 pacientes / un hospital por mes"; hacerla consistente con caps. 4–5
+- [x] 9. ISP/Clase I: retirar de caps. 9 (Gantt), 10 (inversiones), 13 (legal), 19 (riesgos) **o** mantenerlo y justificarlo con fuente — decidir uno; si queda, conciliar M3-M6 vs. "≈6 meses"
+- [x] 10. Leipzig → ZZU: reemplazar "Leipzig Heart Center"/"Leone et al." por el dataset ZZU (Tan et al., 2025, Scientific Data; cita completa en anexos/fuentes/bibliografia-por-capitulo.md) en FODA (cap. 6), solución técnica (cap. 8) y conclusión (cap. 20)
+- [x] 11. Meta de 3 regiones (cap. 6: Valparaíso/Biobío) → reemplazar por criterios de expansión
+- [x] 12. Kits IoT: eliminar de Gantt (actividad 5), bodega (caps. 7 y 15) y Ley REP (cap. 16) — el modelo declara "no incluye equipos"
+- [x] 13. Alinear cap. 6 con el cliente declarado: quitar CESFAM/ISAPRE como canal año 1 o justificarlos; retirar "B2B2C probado" y toda precisión/utilidad presentada como demostrada
+- [x] 14. Conclusión: eliminar o fundamentar "30 hospitales / 8.000 pacientes / un hospital por mes"; hacerla consistente con caps. 4–5
 - [x] 15. SAM: fijar el conteo calificado (estimación declarada) para que SOM y escenarios sean proporcionales correctos
 
 ## P1 — Gráficos y diagramas (la guía los exige; hoy solo texto)
@@ -45,7 +45,7 @@ Proyecto ficticio de nivel perfil: nada se "contrata" ni se "cotiza" — todo lo
 
 ## P2 — Forma y entrega
 
-- [x] 30. Bibliografía APA desde `links.txt` → `anexos/fuentes/bibliografia-por-capitulo.md` *(8 fuentes mapeadas por capítulo 3/4/5; faltan datos de Leone et al. y fila/fecha de Damodaran)*
+- [x] 30. Bibliografía APA → `anexos/fuentes/bibliografia-por-capitulo.md` *(faltan solo fila/fecha de Damodaran)*
 - [ ] 31. Portada: número de grupo e integrantes
 - [ ] 32. TOC: actualizar campos antes de exportar a PDF
 - [ ] 33. Enviar preguntas al profe ya: detalle del cap. 2 (#2), financiamiento (#12), ISP sí/no

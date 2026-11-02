@@ -107,21 +107,18 @@ def organigrama():
     def linea(x1, y1, x2, y2):
         ax.plot([x1, x1, x2, x2], [y1, (y1 + y2) / 2, (y1 + y2) / 2, y2], color=GRIS, lw=1.4, zorder=1)
 
-    caja(6, 4.8, 3.2, 0.75, 'CEO\n(estrategia, capital, clientes clave)', AZUL)
-    caja(2.0, 3.3, 2.6, 0.72, 'CTO\n(arquitectura, ML, seguridad)', AZUL)
-    caja(5.6, 3.3, 2.6, 0.72, 'Director Comercial\n(ventas, convenios)', CELESTE)
-    caja(8.9, 3.3, 2.6, 0.72, 'Director Médico (MT)\n(validación clínica, sociedades)', VERDE)
-    caja(11.1, 4.8, 1.7, 0.75, 'Admin. y Finanzas\n(1, part-time)', GRIS, 8.3)
+    caja(6, 4.8, 3.2, 0.75, 'CEO (socio, sueldo parcial)\nestrategia, capital, clientes clave', AZUL)
+    caja(2.0, 3.3, 2.6, 0.72, 'CTO (socio)\narquitectura, ML, seguridad', AZUL)
+    caja(5.4, 3.3, 2.8, 0.72, 'Director Comercial (socio)\nventas, convenios', CELESTE)
+    caja(8.7, 3.3, 2.9, 0.72, 'Director Médico MT (socio)\nvalidación clínica, sociedades', VERDE)
     caja(0.9, 1.9, 1.8, 0.7, 'Dev ML ×2', AZUL)
     caja(2.9, 1.9, 1.9, 0.7, 'Ing. Cloud/DevOps ×1', AZUL)
-    caja(5.6, 1.9, 1.9, 0.7, 'Ejecutivo/a comercial ×1', CELESTE)
-    linea(6, 4.42, 6, 4.1); linea(2, 4.1, 11.1, 4.1)
-    for x in (2.0, 5.6, 8.9, 11.1):
+    linea(6, 4.42, 6, 4.1); linea(2, 4.1, 8.7, 4.1)
+    for x in (2.0, 5.4, 8.7):
         linea(x, 4.1, x, 3.66)
     linea(0.9, 2.94, 2.9, 2.94); linea(2, 2.94, 2, 2.25); linea(2.9, 2.94, 2.9, 2.25)
-    linea(5.6, 2.94, 5.6, 2.25)
-    ax.text(6, 0.7, 'Estructura año 1: 7 personas (socios con sueldo parcial). Escala a ~14 al año 10.\n'
-                    'Outsourcing: contabilidad y asesoría legal (ver cap. 12/14).',
+    ax.text(6, 0.7, 'Estructura año 1: 7 personas = 4 socios (sueldo parcial) + 3 contrataciones. Escala a ~14 al año 10.\n'
+                    'Outsourcing: contabilidad y asesoría legal; sin personal de administración propio (cap. 12/14).',
             ha='center', fontsize=9, style='italic', color='#444')
     ax.set_title('Organigrama PedioLink — año 1 (estructura ajustada del caso viable)',
                  fontsize=13, fontweight='bold', pad=10)
