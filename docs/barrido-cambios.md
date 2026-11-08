@@ -63,7 +63,7 @@ Ejecutado sobre `PedioLink_Informe_PEP(1).docx` (XML validado, render verificado
 
 ## Pendiente que queda del barrido
 
-1. `fig3_organigrama.png` aún dibuja 8 cajas — regenerar a 7 (quitar Admin y Ejecutivo comercial; outsourcing).
-2. Insertar los gráficos de `informe/graficos/` en el Word (el informe los referenciará como Figuras).
+1. ~~`fig3_organigrama.png` aún dibuja 8 cajas~~ — ✅ Hecho (regenerado a 7 personas y centrado).
+2. ~~Insertar los gráficos de `informe/graficos/` en el Word~~ — ✅ Hecho (10 figuras insertadas consecutivamente con sus referencias y captions).
 3. Fila y fecha de la beta Damodaran (cap. 18).
 4. Cotización real de coworking/oficina y cálculo AWS (ítems 24-25).
