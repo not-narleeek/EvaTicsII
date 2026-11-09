@@ -12,10 +12,10 @@ Informe Word en revisión con 30 comentarios del grupo (ver `docs/comentarios-re
 
 | # | Entregable | Estado | Dónde |
 |---|---|---|---|
-| 1 | Informe Word/PDF (20 puntos de la guía) | ⚠️ En corrección | `PedioLink_Informe_PEP(1).docx` → copia final en `informe/` |
+| 1 | Informe Word/PDF (20 puntos de la guía) | ✅ `PedioLink_Informe_PEP_FINAL.docx` + `PedioLink_Informe.pdf` (raíz) | raíz |
 | 2 | **Excel** con flujo de caja y evaluación económica | ✅ `PedioLink_Flujo_Caja.xlsx` (caso viable: VAN +323k, TIR 21,9%, horizonte 10 años; fórmulas vivas verificadas) — detalles y trazabilidad en `docs/excel-notas.md` | `excel/` |
-| 3 | PowerPoint de presentación | ❌ No existe | `presentacion/` |
-| 4 | Anexos con información soportante | ⚠️ Bibliografía APA por capítulo lista (`anexos/fuentes/bibliografia-por-capitulo.md`); faltan capturas y respaldos | `anexos/` |
+| 3 | PowerPoint de presentación | ✅ `presentacion/PedioLink_Presentacion.pptx` — 18 láminas con elevator pitch 60 s, notas del expositor y los 10 gráficos del informe (`presentacion/generar_presentacion.py`) | `presentacion/` |
+| 4 | Anexos con información soportante | ✅ `PedioLink_Anexos.docx` + `PedioLink_Anexos.pdf` — Anexos A–M: bibliografía APA por capítulo, ficha dataset ZZU, fichas de competidores, marco legal, licitación de referencia, supuestos y trazabilidad, detalle financiero, inversiones, financiamiento, costos, Gantt-PERT, referencias de precios y glosario (`anexos/generar_anexos.py`) | raíz + `anexos/` |
 
 ## Estructura
 
